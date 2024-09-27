@@ -1,5 +1,5 @@
 # LITA_Class-Documentation
-## Project Title: Something Analysis
+## Project Title: Something Analysis.
 
 [Project Overview](#project-overview)
 
