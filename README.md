@@ -1,5 +1,5 @@
-# MSc Project Documentation
-## Project Title: Examining Discrimination in the Prediction of Loan Default: An Experimental Approach
+# LITA Class Documentation
+## Project Title: Analysis
 
 [Project Overview](#project-overview)
 
